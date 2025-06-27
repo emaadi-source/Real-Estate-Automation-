@@ -3,6 +3,8 @@
 This project is a **production-ready, AI-powered marketing automation workflow** built on [Make.com](https://www.make.com/) (formerly Integromat).  
 It automates content creation for real estate agencies—from collecting project details to generating professional marketing materials in minutes.
 
+![image alt](https://github.com/emaadi-source/Real-Estate-Automation-/blob/bc913f7b96c403a5d48a92783961855f563942e0/image.png)
+
 ---
 
 ## ✨ What It Does
